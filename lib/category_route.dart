@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'category.dart';
 
-final _backgroundColor = Colors.green[100];
+final _backgroundColor = Colors.tealAccent[100];
 
 /// Category Route (screen).
 ///
